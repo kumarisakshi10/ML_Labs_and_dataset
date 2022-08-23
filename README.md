@@ -1,2 +1,2 @@
-# My_ML_LinearRegression_dataset
-Lab1
+# My_ML_labs_and_dataset
+
